@@ -1,0 +1,12 @@
+aca,,wss://acala-polkadot.api.onfinality.io/public-ws
+cfg,,wss://fullnode.parachain.centrifuge.io
+dot,,wss://rpc.polkadot.io
+glmr,,wss://wss.api.moonbeam.network
+hko,,wss://heiko-rpc.parallel.fi
+kar,,wss://karura.api.onfinality.io/public-ws
+ksm,,wss://kusama-rpc.polkadot.io
+lit,,wss://rpc.litentry-parachain.litentry.io
+movr,,wss://wss.api.moonriver.moonbeam.network
+para,,wss://rpc.parallel.fi
+regnet,,wss://regnet-rpc.parallel.fi
+regnet2,,wss://regnet2-rpc.parallel.fi
