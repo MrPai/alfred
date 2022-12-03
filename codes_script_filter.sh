@@ -58,7 +58,7 @@ rst='
 '
 # echo $rst | jq
 # 建议生成json后直接copy，避免在每次通过关键词search时都要执行脚本
-echo $rst | jq >> folder_list.json
+echo $rst | jq >> .local/codes_folder_list.json
 
 exit
 cat << EOB
